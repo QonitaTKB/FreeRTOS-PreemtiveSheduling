@@ -5,6 +5,7 @@ This project demonstrates the use of FreeRTOS on an STM32F103C8T6 microcontrolle
 ---
 
 ## **Diagram Task**
+![image](https://github.com/user-attachments/assets/483f38e5-9bb8-42e1-9f0b-d4232bd0ca2f)
 
 
 ---
