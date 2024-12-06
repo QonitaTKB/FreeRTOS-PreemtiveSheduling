@@ -42,6 +42,7 @@ This task controls the red LED with the following pattern:
 
 ---
 ## **Hardware Overview**
+![WhatsApp Image 2024-12-06 at 13 30 07_962163be](https://github.com/user-attachments/assets/4ac39d13-8106-4804-bd7d-c55d1a65fc15)
 
 ---
 ## **Demo Video**
