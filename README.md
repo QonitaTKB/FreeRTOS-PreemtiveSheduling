@@ -1,6 +1,6 @@
 # Exercise 4: Understanding Task Behaviour with Priority Preemptive Scheduling
 
-This project demonstrates the use of FreeRTOS on an STM32F103C8T6 microcontroller to execute multiple tasks controlling LEDs. The system consists of two main tasks responsible for turning on the green and red LEDs in specific patterns, along with one additional default task. Each function is handled in a separate task scheduled by FreeRTOS, enabling multitasking in a real-time environment.
+This project demonstrates the use of FreeRTOS on an STM32F410RBTX microcontroller to execute multiple tasks controlling LEDs. The system consists of two main tasks responsible for turning on the green and red LEDs in specific patterns, along with one additional default task. Each function is handled in a separate task scheduled by FreeRTOS, enabling multitasking in a real-time environment.
 
 ---
 
@@ -11,7 +11,7 @@ This project demonstrates the use of FreeRTOS on an STM32F103C8T6 microcontrolle
 ---
 
 ## **Required Hardware**
-- STM32F103C8T6
+- STM32F410RBTX
 - LEDs (Green and Red)
 
 ---
